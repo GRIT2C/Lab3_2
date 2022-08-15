@@ -1,0 +1,16 @@
+div{
+    font-size: 36px;
+    text-align: center;
+    color: #800080;
+}
+p{
+text-align: center;
+color: #FFA500;
+}       
+a{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+body {background-color: rgb(127, 121, 118);}
